@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Samsung Kumanda</string>
+    <string name="ir_missing">Bu telefonda kızılötesi (IR) vericisi yok. Uygulama yalnızca IR vericili telefonlarda çalışır.</string>
+    <string name="ir_hint">Telefonun üstündeki IR vericisini TV’ye doğrultun</string>
+    <string name="type_hint">TV’ye yazmak için dokunun</string>
+    <string name="type_note">Harfler TV’ye rakam tuşlarıyla (çoklu dokunuş) gönderilir. Silmek için TV’nin ekran klavyesini kullanın. ↵ ile Enter gönderilir.</string>
+    <string name="label_vol">SES</string>
+    <string name="label_ch">KANAL</string>
+</resources>
